@@ -6,3 +6,4 @@ n=int(input("Enter no of year : "))
 intrest=(p*r*n)/100
 
 print(intrest)
+print("Hello from raj")
